@@ -1,0 +1,7 @@
+COMPONENT=RssiTxAppC
+
+INCLUDES= -I..
+
+CFLAGS += $(INCLUDES)
+
+include $(MAKERULES)
